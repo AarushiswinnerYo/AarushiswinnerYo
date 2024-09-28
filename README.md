@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AarushiswinnerYo
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning C++
+- 📫 Instagram, Discord anything's fine, same user
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Coding Bugs were not named after actual bugs
