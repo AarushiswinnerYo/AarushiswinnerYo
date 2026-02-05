@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AarushiswinnerYo
 - 👀 I’m interested in Software Development
+- 🐍 Python developer
 - 🌱 I’m currently learning C++
 - 📫 Instagram, Discord anything's fine, same user
 - 😄 Pronouns: he/him
